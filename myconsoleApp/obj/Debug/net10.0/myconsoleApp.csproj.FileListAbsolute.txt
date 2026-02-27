@@ -1,0 +1,15 @@
+C:\Users\HP\myprojectdt\myconsoleApp\bin\Debug\net10.0\myconsoleApp.exe
+C:\Users\HP\myprojectdt\myconsoleApp\bin\Debug\net10.0\myconsoleApp.deps.json
+C:\Users\HP\myprojectdt\myconsoleApp\bin\Debug\net10.0\myconsoleApp.runtimeconfig.json
+C:\Users\HP\myprojectdt\myconsoleApp\bin\Debug\net10.0\myconsoleApp.dll
+C:\Users\HP\myprojectdt\myconsoleApp\bin\Debug\net10.0\myconsoleApp.pdb
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.AssemblyInfo.cs
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.sourcelink.json
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.dll
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\refint\myconsoleApp.dll
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.pdb
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\myconsoleApp.genruntimeconfig.cache
+C:\Users\HP\myprojectdt\myconsoleApp\obj\Debug\net10.0\ref\myconsoleApp.dll
